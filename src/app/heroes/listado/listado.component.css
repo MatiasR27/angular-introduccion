@@ -1,0 +1,9 @@
+
+li{
+    width: 50%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    list-style: none;
+    cursor:pointer;
+    font-size: small;
+}
